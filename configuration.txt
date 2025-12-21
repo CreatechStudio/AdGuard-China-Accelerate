@@ -1802,7 +1802,6 @@
 [/148com.com/]h3://dns.alidns.com/dns-query
 [/148la.com/]h3://dns.alidns.com/dns-query
 [/14944.net/]h3://dns.alidns.com/dns-query
-[/1495c8.com/]h3://dns.alidns.com/dns-query
 [/14hj.com/]h3://dns.alidns.com/dns-query
 [/14play.net/]h3://dns.alidns.com/dns-query
 [/14xd.com/]h3://dns.alidns.com/dns-query
@@ -6824,7 +6823,6 @@
 [/62669.com/]h3://dns.alidns.com/dns-query
 [/626x.com/]h3://dns.alidns.com/dns-query
 [/628.com/]h3://dns.alidns.com/dns-query
-[/628536nyv.com/]h3://dns.alidns.com/dns-query
 [/62923.vip/]h3://dns.alidns.com/dns-query
 [/629973.com/]h3://dns.alidns.com/dns-query
 [/62dns.com/]h3://dns.alidns.com/dns-query
@@ -11993,7 +11991,6 @@
 [/antvr.com/]h3://dns.alidns.com/dns-query
 [/antwork.link/]h3://dns.alidns.com/dns-query
 [/antzk.com/]h3://dns.alidns.com/dns-query
-[/anviettek.com/]h3://dns.alidns.com/dns-query
 [/anw.red/]h3://dns.alidns.com/dns-query
 [/anweilan.com/]h3://dns.alidns.com/dns-query
 [/anweishi.com/]h3://dns.alidns.com/dns-query
@@ -53715,6 +53712,7 @@
 [/jamalube.net/]h3://dns.alidns.com/dns-query
 [/jamcz.com/]h3://dns.alidns.com/dns-query
 [/jamidol.com/]h3://dns.alidns.com/dns-query
+[/jamms.org/]h3://dns.alidns.com/dns-query
 [/jammyfm.com/]h3://dns.alidns.com/dns-query
 [/jampotgames.com/]h3://dns.alidns.com/dns-query
 [/janbao.net/]h3://dns.alidns.com/dns-query
@@ -56921,7 +56919,6 @@
 [/js96008.com/]h3://dns.alidns.com/dns-query
 [/js96777.com/]h3://dns.alidns.com/dns-query
 [/jsadkg.com/]h3://dns.alidns.com/dns-query
-[/jsadt.com/]h3://dns.alidns.com/dns-query
 [/jsaeit.com/]h3://dns.alidns.com/dns-query
 [/jsaes.com/]h3://dns.alidns.com/dns-query
 [/jsafc.net/]h3://dns.alidns.com/dns-query
