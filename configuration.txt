@@ -9024,6 +9024,7 @@
 [/9377os.com/]h3://dns.alidns.com/dns-query
 [/9377s.com/]h3://dns.alidns.com/dns-query
 [/9377z.com/]h3://dns.alidns.com/dns-query
+[/9378.com/]h3://dns.alidns.com/dns-query
 [/93913.com/]h3://dns.alidns.com/dns-query
 [/939394.xyz/]h3://dns.alidns.com/dns-query
 [/93966.com/]h3://dns.alidns.com/dns-query
@@ -22462,6 +22463,7 @@
 [/chmti.com/]h3://dns.alidns.com/dns-query
 [/chn-cstc.com/]h3://dns.alidns.com/dns-query
 [/chn-das.com/]h3://dns.alidns.com/dns-query
+[/chn-new-9sport.com/]h3://dns.alidns.com/dns-query
 [/chn0769.com/]h3://dns.alidns.com/dns-query
 [/chn112.com/]h3://dns.alidns.com/dns-query
 [/chn168.com/]h3://dns.alidns.com/dns-query
@@ -25314,6 +25316,7 @@
 [/cpeol.net/]h3://dns.alidns.com/dns-query
 [/cpepgc.com/]h3://dns.alidns.com/dns-query
 [/cpfia.org/]h3://dns.alidns.com/dns-query
+[/cpfwzs.com/]h3://dns.alidns.com/dns-query
 [/cpg-motor.com/]h3://dns.alidns.com/dns-query
 [/cphfgg.com/]h3://dns.alidns.com/dns-query
 [/cphiic.com/]h3://dns.alidns.com/dns-query
@@ -26260,6 +26263,7 @@
 [/cs27.com/]h3://dns.alidns.com/dns-query
 [/cs2c.com/]h3://dns.alidns.com/dns-query
 [/cs2ccloud.com/]h3://dns.alidns.com/dns-query
+[/cs2pw.com/]h3://dns.alidns.com/dns-query
 [/cs30.net/]h3://dns.alidns.com/dns-query
 [/cs451.com/]h3://dns.alidns.com/dns-query
 [/cs48.com/]h3://dns.alidns.com/dns-query
@@ -28433,6 +28437,7 @@
 [/dealsmake.com/]h3://dns.alidns.com/dns-query
 [/deansys.com/]h3://dns.alidns.com/dns-query
 [/dear520dear.com/]h3://dns.alidns.com/dns-query
+[/dearclick.com/]h3://dns.alidns.com/dns-query
 [/dearda.com/]h3://dns.alidns.com/dns-query
 [/dearedu.com/]h3://dns.alidns.com/dns-query
 [/dearisland.com/]h3://dns.alidns.com/dns-query
@@ -33567,6 +33572,7 @@
 [/excoino.com/]h3://dns.alidns.com/dns-query
 [/exd.design/]h3://dns.alidns.com/dns-query
 [/exdoll.com/]h3://dns.alidns.com/dns-query
+[/exedus.com.co/]h3://dns.alidns.com/dns-query
 [/exeedcars.com/]h3://dns.alidns.com/dns-query
 [/exexm.com/]h3://dns.alidns.com/dns-query
 [/exezhanqun.com/]h3://dns.alidns.com/dns-query
@@ -47540,6 +47546,7 @@
 [/horosama.com/]h3://dns.alidns.com/dns-query
 [/horou.com/]h3://dns.alidns.com/dns-query
 [/horphoto.com/]h3://dns.alidns.com/dns-query
+[/horsebrowser.com/]h3://dns.alidns.com/dns-query
 [/horsechinaone.com/]h3://dns.alidns.com/dns-query
 [/horti-expo2019.com/]h3://dns.alidns.com/dns-query
 [/hortor-comic.com/]h3://dns.alidns.com/dns-query
@@ -50658,6 +50665,7 @@
 [/ic-ldo.com/]h3://dns.alidns.com/dns-query
 [/ic-leasing.com/]h3://dns.alidns.com/dns-query
 [/ic-mag.com/]h3://dns.alidns.com/dns-query
+[/ic-spic.com/]h3://dns.alidns.com/dns-query
 [/ic-valley.com/]h3://dns.alidns.com/dns-query
 [/ic001.org/]h3://dns.alidns.com/dns-query
 [/ic2china.com/]h3://dns.alidns.com/dns-query
@@ -60471,6 +60479,7 @@
 [/kwaizt.com/]h3://dns.alidns.com/dns-query
 [/kwangfeng.com/]h3://dns.alidns.com/dns-query
 [/kwggroupholdings.com/]h3://dns.alidns.com/dns-query
+[/kwicdn.com/]h3://dns.alidns.com/dns-query
 [/kwimgs.com/]h3://dns.alidns.com/dns-query
 [/kwinbon.com/]h3://dns.alidns.com/dns-query
 [/kwise-log.com/]h3://dns.alidns.com/dns-query
@@ -73464,6 +73473,7 @@
 [/paihang8.com/]h3://dns.alidns.com/dns-query
 [/paihb.com/]h3://dns.alidns.com/dns-query
 [/paihotels.cc/]h3://dns.alidns.com/dns-query
+[/paihuisy.com/]h3://dns.alidns.com/dns-query
 [/paikew.com/]h3://dns.alidns.com/dns-query
 [/paiky.com/]h3://dns.alidns.com/dns-query
 [/paiky.net/]h3://dns.alidns.com/dns-query
@@ -74034,7 +74044,9 @@
 [/peipusci.com/]h3://dns.alidns.com/dns-query
 [/peise.net/]h3://dns.alidns.com/dns-query
 [/peisebiao.com/]h3://dns.alidns.com/dns-query
+[/peiwan.tv/]h3://dns.alidns.com/dns-query
 [/peiwanlu.com/]h3://dns.alidns.com/dns-query
+[/peiwantv.com/]h3://dns.alidns.com/dns-query
 [/peixianedu.com/]h3://dns.alidns.com/dns-query
 [/peixiang.com/]h3://dns.alidns.com/dns-query
 [/peixinbao.com/]h3://dns.alidns.com/dns-query
@@ -90023,6 +90035,7 @@
 [/tdchats.us/]h3://dns.alidns.com/dns-query
 [/tdchatvip.us/]h3://dns.alidns.com/dns-query
 [/tddmp.com/]h3://dns.alidns.com/dns-query
+[/tdfsm.com/]h3://dns.alidns.com/dns-query
 [/tdgdy.org/]h3://dns.alidns.com/dns-query
 [/tdgod.com/]h3://dns.alidns.com/dns-query
 [/tdiac.com/]h3://dns.alidns.com/dns-query
@@ -93036,6 +93049,7 @@
 [/tv002.com/]h3://dns.alidns.com/dns-query
 [/tv121.com/]h3://dns.alidns.com/dns-query
 [/tv189.com/]h3://dns.alidns.com/dns-query
+[/tv2-zuqiu.com/]h3://dns.alidns.com/dns-query
 [/tv20806.com/]h3://dns.alidns.com/dns-query
 [/tv373.com/]h3://dns.alidns.com/dns-query
 [/tvandnet.com/]h3://dns.alidns.com/dns-query
@@ -100714,6 +100728,7 @@
 [/xhytd.com/]h3://dns.alidns.com/dns-query
 [/xhyun.vip/]h3://dns.alidns.com/dns-query
 [/xhzysg.com/]h3://dns.alidns.com/dns-query
+[/xi-9.com/]h3://dns.alidns.com/dns-query
 [/xi-soft.com/]h3://dns.alidns.com/dns-query
 [/xi.su/]h3://dns.alidns.com/dns-query
 [/xi5jie.com/]h3://dns.alidns.com/dns-query
@@ -107552,6 +107567,7 @@
 [/yousheyoujia.com/]h3://dns.alidns.com/dns-query
 [/youshibeike.com/]h3://dns.alidns.com/dns-query
 [/youshifu.com/]h3://dns.alidns.com/dns-query
+[/youshihui.cc/]h3://dns.alidns.com/dns-query
 [/youshikoudai.com/]h3://dns.alidns.com/dns-query
 [/youshixiu.com/]h3://dns.alidns.com/dns-query
 [/youshop01.com/]h3://dns.alidns.com/dns-query
