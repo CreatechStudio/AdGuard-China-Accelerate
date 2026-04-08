@@ -3,5 +3,3 @@
 [/createch.eu.org/]https://cloudflare-dns.com/dns-query
 https://cloudflare-dns.com/dns-query
 tls://one.one.one.one
-https://dns.google/dns-query
-tls://dns.google
