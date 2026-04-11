@@ -32309,6 +32309,7 @@
 [/dubairen.com/]h3://dns.alidns.com/dns-query
 [/dubao123.com/]h3://dns.alidns.com/dns-query
 [/dubbing.tech/]h3://dns.alidns.com/dns-query
+[/dubbingx.com/]h3://dns.alidns.com/dns-query
 [/dubbo.io/]h3://dns.alidns.com/dns-query
 [/duble.live/]h3://dns.alidns.com/dns-query
 [/dubola.com/]h3://dns.alidns.com/dns-query
@@ -68903,6 +68904,7 @@
 [/miaocode.com/]h3://dns.alidns.com/dns-query
 [/miaodiyun.com/]h3://dns.alidns.com/dns-query
 [/miaodongbar.com/]h3://dns.alidns.com/dns-query
+[/miaodongshenghuo.com/]h3://dns.alidns.com/dns-query
 [/miaogongzi.cc/]h3://dns.alidns.com/dns-query
 [/miaogongzi.net/]h3://dns.alidns.com/dns-query
 [/miaohuiyanyi.com/]h3://dns.alidns.com/dns-query
@@ -79934,6 +79936,7 @@
 [/quaspa.com/]h3://dns.alidns.com/dns-query
 [/quazero.com/]h3://dns.alidns.com/dns-query
 [/quba360.com/]h3://dns.alidns.com/dns-query
+[/qubang.cc/]h3://dns.alidns.com/dns-query
 [/qubaobei.com/]h3://dns.alidns.com/dns-query
 [/qubiankeji.com/]h3://dns.alidns.com/dns-query
 [/qucai.com/]h3://dns.alidns.com/dns-query
@@ -95338,6 +95341,7 @@
 [/tsg-online.net/]h3://dns.alidns.com/dns-query
 [/tsggx.com/]h3://dns.alidns.com/dns-query
 [/tsgks.com/]h3://dns.alidns.com/dns-query
+[/tsgyun.com/]h3://dns.alidns.com/dns-query
 [/tshaisen.com/]h3://dns.alidns.com/dns-query
 [/tshe.com/]h3://dns.alidns.com/dns-query
 [/tshe.me/]h3://dns.alidns.com/dns-query
@@ -110427,6 +110431,7 @@
 [/yooek.com/]h3://dns.alidns.com/dns-query
 [/yoofh.com/]h3://dns.alidns.com/dns-query
 [/yoogene.com/]h3://dns.alidns.com/dns-query
+[/yoohe.net/]h3://dns.alidns.com/dns-query
 [/yoohouse.com/]h3://dns.alidns.com/dns-query
 [/yoojia.com/]h3://dns.alidns.com/dns-query
 [/yoojing.com/]h3://dns.alidns.com/dns-query
