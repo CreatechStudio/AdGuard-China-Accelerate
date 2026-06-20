@@ -13890,6 +13890,7 @@
 [/azuiblc.com/]h3://dns.alidns.com/dns-query
 [/azure-wave.com/]h3://dns.alidns.com/dns-query
 [/azure.cc/]h3://dns.alidns.com/dns-query
+[/azureflame.cloud/]h3://dns.alidns.com/dns-query
 [/azureflying.com/]h3://dns.alidns.com/dns-query
 [/azuremigrate.download.prss.microsoft.com/]h3://dns.alidns.com/dns-query
 [/azuremigratetest.download.prss.microsoft.com/]h3://dns.alidns.com/dns-query
@@ -16478,6 +16479,7 @@
 [/bjartmuseum.com/]h3://dns.alidns.com/dns-query
 [/bjatv.com/]h3://dns.alidns.com/dns-query
 [/bjbaidianfeng.com/]h3://dns.alidns.com/dns-query
+[/bjbaifan.com/]h3://dns.alidns.com/dns-query
 [/bjbalb.com/]h3://dns.alidns.com/dns-query
 [/bjbaodao.net/]h3://dns.alidns.com/dns-query
 [/bjbb.com/]h3://dns.alidns.com/dns-query
@@ -18915,6 +18917,7 @@
 [/cangfengzhe.com/]h3://dns.alidns.com/dns-query
 [/canghaiip.com/]h3://dns.alidns.com/dns-query
 [/canghaimachine.com/]h3://dns.alidns.com/dns-query
+[/cangjggame.com/]h3://dns.alidns.com/dns-query
 [/canglanghospital.com/]h3://dns.alidns.com/dns-query
 [/cangmang.xyz/]h3://dns.alidns.com/dns-query
 [/cangoonline.com/]h3://dns.alidns.com/dns-query
@@ -20535,6 +20538,7 @@
 [/chachengji.com/]h3://dns.alidns.com/dns-query
 [/chacihai.com/]h3://dns.alidns.com/dns-query
 [/chacuo.net/]h3://dns.alidns.com/dns-query
+[/chadaodao.com/]h3://dns.alidns.com/dns-query
 [/chadianhua.net/]h3://dns.alidns.com/dns-query
 [/chadoc.com/]h3://dns.alidns.com/dns-query
 [/chaej.com/]h3://dns.alidns.com/dns-query
@@ -34447,6 +34451,7 @@
 [/feiersmart.com/]h3://dns.alidns.com/dns-query
 [/feifandesign.com/]h3://dns.alidns.com/dns-query
 [/feifanindustry.com/]h3://dns.alidns.com/dns-query
+[/feifanmi.com/]h3://dns.alidns.com/dns-query
 [/feifantxt.com/]h3://dns.alidns.com/dns-query
 [/feifantxt.net/]h3://dns.alidns.com/dns-query
 [/feifdx.com/]h3://dns.alidns.com/dns-query
@@ -75115,6 +75120,7 @@
 [/qingnianlvxing.com/]h3://dns.alidns.com/dns-query
 [/qingniantuzhai.com/]h3://dns.alidns.com/dns-query
 [/qingnianwang.com/]h3://dns.alidns.com/dns-query
+[/qingning88.com/]h3://dns.alidns.com/dns-query
 [/qingpanduola.com/]h3://dns.alidns.com/dns-query
 [/qingpin.vip/]h3://dns.alidns.com/dns-query
 [/qingping.co/]h3://dns.alidns.com/dns-query
@@ -92117,6 +92123,7 @@
 [/uniow.com/]h3://dns.alidns.com/dns-query
 [/unipack-tech.com/]h3://dns.alidns.com/dns-query
 [/uniproud.com/]h3://dns.alidns.com/dns-query
+[/unisapps.com/]h3://dns.alidns.com/dns-query
 [/uniscope.com/]h3://dns.alidns.com/dns-query
 [/unisdigital.com/]h3://dns.alidns.com/dns-query
 [/unisedu.com/]h3://dns.alidns.com/dns-query
@@ -112132,6 +112139,7 @@
 [/itunes-apple.com.akadns.net/]h3://dns.alidns.com/dns-query
 [/itunes.apple.com/]h3://dns.alidns.com/dns-query
 [/itunesconnect.apple.com/]h3://dns.alidns.com/dns-query
+[/mensura.cdn-apple.com/]h3://dns.alidns.com/dns-query
 [/mesu-cdn.apple.com.akadns.net/]h3://dns.alidns.com/dns-query
 [/mesu-china.apple.com.akadns.net/]h3://dns.alidns.com/dns-query
 [/mesu.apple.com/]h3://dns.alidns.com/dns-query
