@@ -13900,6 +13900,7 @@
 [/b-k-automation.com/]h3://dns.alidns.com/dns-query
 [/b-raymedia.com/]h3://dns.alidns.com/dns-query
 [/b.biz/]h3://dns.alidns.com/dns-query
+[/b.c2r.ts.cdn.office.net/]h3://dns.alidns.com/dns-query
 [/b01.net/]h3://dns.alidns.com/dns-query
 [/b02f0d7f3745ba7c.com/]h3://dns.alidns.com/dns-query
 [/b041e427810281.beer/]h3://dns.alidns.com/dns-query
@@ -33657,6 +33658,7 @@
 [/f-insight.com/]h3://dns.alidns.com/dns-query
 [/f-stack.org/]h3://dns.alidns.com/dns-query
 [/f.biz/]h3://dns.alidns.com/dns-query
+[/f.c2r.ts.cdn.office.net/]h3://dns.alidns.com/dns-query
 [/f.cx/]h3://dns.alidns.com/dns-query
 [/f008.com/]h3://dns.alidns.com/dns-query
 [/f015dfc4510292.beer/]h3://dns.alidns.com/dns-query
@@ -81098,6 +81100,7 @@
 [/sheketiandi.com/]h3://dns.alidns.com/dns-query
 [/shekou.com/]h3://dns.alidns.com/dns-query
 [/shelive.net/]h3://dns.alidns.com/dns-query
+[/shell.cdn.office.net/]h3://dns.alidns.com/dns-query
 [/shellpub.com/]h3://dns.alidns.com/dns-query
 [/shellsec.com/]h3://dns.alidns.com/dns-query
 [/shelter-china.com/]h3://dns.alidns.com/dns-query
@@ -84918,6 +84921,7 @@
 [/staticfile.org/]h3://dns.alidns.com/dns-query
 [/statickksmg.com/]h3://dns.alidns.com/dns-query
 [/statics.cc/]h3://dns.alidns.com/dns-query
+[/statics.teams.cdn.office.net/]h3://dns.alidns.com/dns-query
 [/staticsdd.com/]h3://dns.alidns.com/dns-query
 [/staticsoe.com/]h3://dns.alidns.com/dns-query
 [/staticsoem.com/]h3://dns.alidns.com/dns-query
@@ -85631,6 +85635,7 @@
 [/surely.cool/]h3://dns.alidns.com/dns-query
 [/surerp.com/]h3://dns.alidns.com/dns-query
 [/surface.download.prss.microsoft.com/]h3://dns.alidns.com/dns-query
+[/surface.downloads.prss.microsoft.com/]h3://dns.alidns.com/dns-query
 [/surfacetreatmentgroup.com/]h3://dns.alidns.com/dns-query
 [/surfacetreatmenttechnology.com/]h3://dns.alidns.com/dns-query
 [/surfcg.com/]h3://dns.alidns.com/dns-query
