@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]h3://dns.alidns.com/dns-query
 [/gsp5-cn.ls.apple.com/]h3://dns.alidns.com/dns-query
 [/gsp85-cn-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query
+[/gspe11-2-cn-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]h3://dns.alidns.com/dns-query
 [/gspe19-2-cn-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query
 [/gspe19-cn-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query
@@ -12686,6 +12687,7 @@
 [/api-m.com/]h3://dns.alidns.com/dns-query
 [/api-vod-qcloud.com/]h3://dns.alidns.com/dns-query
 [/api.anythinktech.com/]h3://dns.alidns.com/dns-query
+[/api.blipsandchitz.me/]h3://dns.alidns.com/dns-query
 [/api.cnno1.uds.lenovo.com/]h3://dns.alidns.com/dns-query
 [/api.djiservice.org/]h3://dns.alidns.com/dns-query
 [/api.euwe1.uds.lenovo.com/]h3://dns.alidns.com/dns-query
